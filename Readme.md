@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Сергей Шалыгин](https://up.htmlacademy.ru/javascript/20/user/1329999).
-* Наставник: `Неизвестно`.
+- Студент: [Сергей Шалыгин](https://up.htmlacademy.ru/javascript/20/user/1329999).
+- Наставник: [Максим Кузнецов](https://htmlacademy.ru/profile/maxkuznetsov).
 
 ---
 
